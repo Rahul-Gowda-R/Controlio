@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687911262710",
+    "project_id": "employeetracker-rahul",
+    "storage_bucket": "employeetracker-rahul.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687911262710:android:cf0e2b83a7c60d84cdcfd7",
+        "android_client_info": {
+          "package_name": "com.company.employeetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABj0B81xvY8TQTNNQr1dOmRg_EwcYPV6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
